@@ -6,8 +6,7 @@
 name: Brooke Godinez
 
 # Short bio or description (displayed in the header)
-description: This is a website that is a part of the DREAM Project, through the Colorado University School of Mines. My project includes implementing 
-a parallel Breadth First Search algorithm.  
+description: This is a website that is a part of the DREAM Project, through the Colorado University School of Mines. My project includes implementing a parallel Breadth First Search algorithm.  
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
