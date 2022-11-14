@@ -7,12 +7,12 @@ title: DREAM Project Site
 {:toc}
 
 ## About Me
-
-My info goes here.
+I am a second year Masters of Science in Computer Science at the University of California, Riverside. My interests include algorithm design and analysis, software verification and development and learning new programming languages. 
 
 ## About My Advisor
 
-Advisor info goes here.
+
+My advisor for this project is Yihan Sun, an assistant professor at the University of California Riverside who received her Phd from Carnegie Mellon University. Her research interests include the theory and practice of parallel computing which include data structures, frameworks, implementations, programming tools and their applications. The link to her website is: https://www.cs.ucr.edu/~yihans/ which includes links to her research publications and her work on parallel tree structures.  
 
 ## About My Project
 
