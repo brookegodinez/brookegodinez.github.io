@@ -22,4 +22,4 @@ Project description goes here.
 
 ## My Github
 
-[My Github]((https://github.com/brookegodinez))
+[My Github][https://github.com/brookegodinez]
