@@ -20,6 +20,6 @@ Project description goes here.
 
 [My Final Report](files/finalreport.pdf)
 
-## My Blog
+## My Github
 
-[My Blog](blog.html)
+[My Github]((https://github.com/brookegodinez))
