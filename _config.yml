@@ -74,4 +74,4 @@ exclude:
   - README.md
   - CNAME
 
-theme: modernist
+theme: jekyll-theme-midnight
