@@ -7,7 +7,7 @@ title: DREAM Project Site
 {:toc}
 
 ## About Me
-Hi! I am Brooke Godinez and I am a second year Masters of Science in Computer Science at the University of California, Riverside. My bachelor's degree in Mathematical Economics is from the California State University, San Bernardino. My interests include algorithm design and analysis, software verification and development and learning new programming languages. 
+Hi! I am Brooke Godinez and I am a second year Masters of Science in Computer Science at the University of California, Riverside. My bachelor's degree is in Mathematical Economics from the California State University, San Bernardino. I received my bachelor's degree in May of 2020 and will be finishing my MS in CS in April 2023. My career/academic interests include algorithm design and analysis, software verification and development and learning new programming languages.  
 
 ## About My Advisor
 
