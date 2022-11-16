@@ -7,7 +7,7 @@ title: DREAM Project Site
 {:toc}
 
 ## About Me
-I am a second year Masters of Science in Computer Science at the University of California, Riverside. My interests include algorithm design and analysis, software verification and development and learning new programming languages. 
+Hi! I am Brooke Godinez and I am a second year Masters of Science in Computer Science at the University of California, Riverside. My bachelor's degree in Mathematical Economics is from the California State University, San Bernardino. My interests include algorithm design and analysis, software verification and development and learning new programming languages. 
 
 ## About My Advisor
 
