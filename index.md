@@ -12,7 +12,7 @@ Hi! I am Brooke Godinez and I am a second year Masters of Science in Computer Sc
 ## About My Advisor
 
 
-My advisor for this project is Yihan Sun, an assistant professor at the University of California Riverside who received her Phd from Carnegie Mellon University. Her research interests include the theory and practice of parallel computing which include data structures, frameworks, implementations, programming tools and their applications. The link to her website is: https://www.cs.ucr.edu/~yihans/ which includes links to her research publications and her work on parallel tree structures.  
+My advisor for this project is Yihan Sun, an assistant professor at the University of California Riverside who received her Phd from Carnegie Mellon University. Her research interests include the theory and practice of parallel computing which include data structures, frameworks, implementations, programming tools and their applications. The link to her website is: [Prof Yihan's site](https://www.cs.ucr.edu/~yihans/) which includes links to her research publications and her work on parallel tree structures.  
 
 ## About My Project
 
