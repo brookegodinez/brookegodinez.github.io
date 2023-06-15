@@ -19,7 +19,7 @@ My advisor for this project is Yihan Sun, an assistant professor at the Universi
 My project revolves around the theory and implementation of the parallel Breadth First Search algorithm. A sequential BFS algorithm explores a graph with a starting node by using a FIFO data structure, a queue, that allows those items first added to it to be the first removed from it. At every vertice its neighbors are added to the queue and after all neighbors of the current vertice are added the new current vertice will be taken from the front of the queue. By using a queue the algorithm explores the graph by level or “breadth” in order of increasing distance from the source node. 
 My project centers on implementing a parallel BFS algorithm with faster execution than a sequential BFS algorithm through various optimizations, investigating the connection between parallel BFS algorithms and single source shortest path algorithms, such as ​​Dijkstra's algorithm, and shortcutting for wide-diameter graphs that can help speed up the traversal of these graphs by the BFS algorithm.
 
-[My Final Report - (TBA)To Be Added](files/finalreport.pdf)
+[My Final Report](files/finalreport.pdf)
 
 ## My Github
 
