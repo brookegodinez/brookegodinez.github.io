@@ -20,6 +20,7 @@ My project revolves around the theory and implementation of the parallel Breadth
 My project centers on implementing a parallel BFS algorithm with faster execution than a sequential BFS algorithm through various optimizations, investigating the connection between parallel BFS algorithms and single source shortest path algorithms, such as ​​Dijkstra's algorithm, and shortcutting for wide-diameter graphs that can help speed up the traversal of these graphs by the BFS algorithm.
 
 [My Final Report](files/finalreport.pdf)
+[Link to Code](https://github.com/brookegodinez/Parallel_BFS_DREAM_Proj)
 
 ## My Github
 
